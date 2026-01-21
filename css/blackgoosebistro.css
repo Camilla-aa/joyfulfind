@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    
+}
+body{ margin: 100px;
+    font-size: 20px;
+    background-color: lemonchiffon;
+    h2{
+        color: orangered;
+        text-align: left;
+        
+    }
+    p{
+        text-align: left;
+        color: black;
+        
+        
+    }
+
+
+
+}
+hr{
+    border-color: aqua;
+    
+    margin-top: -33px
+    
+
+    }
+    img{
+        border-radius: 100px;
+        align-content: center;
+        margin: auto;
+        display: block;
+
+    }

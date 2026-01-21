@@ -1,0 +1,32 @@
+h1{
+    color: hotpink;
+    text-align: center;
+    font-size: 70px;
+    background-color: rgb(247, 0, 255);
+    line-height: 100px;
+    text-shadow: 8px 0 8px white;
+    font-weight: bolder;
+}
+/*hover changes color when cursor is placed on it */
+h1:hover{
+    background-color: black;
+    color: purple;
+}
+p{
+    font-style: italic;
+}
+img{
+    width: 250px;
+    height: 200px;
+}
+a{
+    background-color: rgb(255, 0, 242);
+    margin-right: 20px;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: white;
+}
+a:hover{
+    background-color: black;
+}
